@@ -4,4 +4,4 @@ The network incorporates a HPPU module to learn complex pixels in given ultrasou
 # Code Execution
 Update all the data paths according to your directory. The code has been tested on publicly available dataset from the UDIAT Diagnostic Center of the Parc Tauli Corporation, Sabadell, Spain.
 Run main file to train network on the given data.
-RUn test file to predict results.
+Run test file to predict results.
